@@ -23,14 +23,10 @@ Estudante do Curso Técnico de Programador de Informática pela **OFICINA — Es
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens & Frameworks**
-![JavaScript](https://shields.io) ![C++](https://shields.io) ![C#](https://shields.io) ![.NET](https://shields.io) ![React](https://shields.io) ![NodeJS](https://shields.io)
-
-**Ferramentas, Ambientes & Bases de Dados**
-![Visual Studio Code](https://shields.io) ![WordPress](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![GitHub](https://shields.io)
-
-**Outros**
-![HTML5](https://shields.io) ![Arduino](https://shields.io)
+* **Linguagens & Frameworks:** `JavaScript` | `C/C++` | `C#` | `.NET` | `React` | `Node.js`
+* **Ferramentas & Ambientes:** `Visual Studio Code` | `WordPress` | `Flowgorithm` | `Scratch`
+* **Bases de Dados & Sistemas:** `MySQL Workbench` | `PostgreSQL` | `PhpAdmin` | `Ubuntu`
+* **Hardware & Outros:** `Arduino` | `HTML5` | `Git / GitHub` | `Reparação de Sistemas`
 
 ---
 
@@ -42,9 +38,15 @@ Estudante do Curso Técnico de Programador de Informática pela **OFICINA — Es
 
 ---
 
+### 📚 Formação Complementar
+* 💻 **Formação Ubuntu**
+* 🗣️ **Formação de Modelo e Comunicação**
+
+---
+
 ### 🧠 Competências Pessoais & Interesses
-* 👥 **Trabalho em equipa** | 🎨 **Criatividade** | 💬 **Comunicação fluida** | 📈 **Liderança e Pensamento Crítico**
-* 🥋 Praticante de Artes Marciais | 📚 Leitor | 🏋️ Entusiasta de Ginásio
+* 👥 **Trabalho em equipa** | 🎨 **Criatividade** | 💬 **Comunicação** | 📈 **Liderança e Proatividade**
+* 🥋 Praticante de Artes Marciais | 📚 Leitor | 🏋️ Entusiasta de Ginásio | 💻 Programação
 
 ---
 
