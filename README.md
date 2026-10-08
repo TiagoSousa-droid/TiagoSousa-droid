@@ -23,31 +23,31 @@ Estudante do Curso Técnico de Programador de Informática pela **OFICINA — Es
 
 ### 🛠️ Tecnologias e Ferramentas
 
-| Linguagens / Frameworks | Ferramentas / Ambientes | Outros |
-| :--- | :--- | :--- |
-| <img src="https://shields.io" alt="JavaScript"/> | <img src="https://shields.io" alt="VS Code"/> | <img src="https://shields.io" alt="Arduino"/> |
-| <img src="https://shields.io" alt="C/C++"/> | <img src="https://shields.io" alt="WordPress"/> | <img src="https://shields.io" alt="HTML5"/> |
-| <img src="https://shields.io" alt="React"/> | <img src="https://shields.io" alt="MySQL"/> | <img src="https://shields.io" alt="PostgreSQL"/> |
-| <img src="https://shields.io" alt="Node.js"/> | <img src="https://shields.io" alt="C#"/> | <img src="https://shields.io" alt=".NET"/> |
+**Linguagens & Frameworks**
+![JavaScript](https://shields.io) ![C++](https://shields.io) ![C#](https://shields.io) ![.NET](https://shields.io) ![React](https://shields.io) ![NodeJS](https://shields.io)
+
+**Ferramentas, Ambientes & Bases de Dados**
+![Visual Studio Code](https://shields.io) ![WordPress](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![GitHub](https://shields.io)
+
+**Outros**
+![HTML5](https://shields.io) ![Arduino](https://shields.io)
 
 ---
 
 ### 🚀 Projetos em Destaque
 * **Website de Venda de Sapatilhas** 👟
-* **Projeto Tremu — Inclusão Social** (Reconhecimento de letras por linguagem gestual) 🤟
+* **Projeto Tremu — Inclusão Social** *(Reconhecimento de letras por linguagem gestual)* 🤟
 * **Sistema IPO** 📋
-* **A Velocidade do Sol** (Montagem de um carrinho solar) ☀️
+* **A Velocidade do Sol** *(Montagem de um carrinho solar)* ☀️
 
 ---
 
 ### 🧠 Competências Pessoais & Interesses
-* 👥 Trabalho em equipa | 🎨 Criatividade | 💬 Comunicação fluida | 📈 Liderança e Pensamento Crítico
+* 👥 **Trabalho em equipa** | 🎨 **Criatividade** | 💬 **Comunicação fluida** | 📈 **Liderança e Pensamento Crítico**
 * 🥋 Praticante de Artes Marciais | 📚 Leitor | 🏋️ Entusiasta de Ginásio
 
 ---
 
-### 📬 Contactos & Redes
-[![GitHub](https://shields.io)](https://github.com/) 
-[![Email](https://shields.io)](mailto:a14891@oficina.pt)
-
+### 📬 Contactos
+📧 **Email:** a14891@oficina.pt  
 📍 *Trofa, São Romão — Portugal* 🇵🇹
