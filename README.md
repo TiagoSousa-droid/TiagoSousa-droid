@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **TiagoSousa-droid/TiagoSousa-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+[![TiagoSousa-droid's GitHubCard](https://githubcard.com/TiagoSousa-droid.svg?d=BGcd-lDKXM-1)](https://githubcard.com/TiagoSousa-droid/card?utm_source=github&utm_medium=readme)
