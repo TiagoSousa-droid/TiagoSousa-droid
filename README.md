@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 --> 
 <!-- Header com Animação de Digitação -->
 <!-- Header com Animação de Digitação -->
+<!-- Header com Animação de Digitação -->
 <div align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Tiago+Sousa!+%F0%9F%91%8B;T%C3%A9cnico+de+Programador+de+Inform%C3%A1tica;Estudante+na+OFICINA;Construindo+o+futuro+linha+a+linha..." alt="Typing SVG" />
 </div>
 
 <br />
 
 <!-- Estatísticas Dinâmicas (Estilo Tech/Cyberpunk) -->
 <div align="center">
-  <a href="https://github.com">
-    <img align="center" src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <a href="https://github.com/TiagoSousa-droid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoSousa-droid&show_icons=true&theme=tokyonight&locale=pt-br&border_radius=10&hide_border=true" alt="Estatísticas do GitHub" height="150" />
   </a>
-  <a href="https://github.com">
-    <img align="center" src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+  <a href="https://github.com/TiagoSousa-droid">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSousa-droid&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Linguagens mais usadas" height="150" />
   </a>
 </div>
 
@@ -36,62 +37,24 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Sobre Mim
 
-Estudante do Curso **Técnico de Programador de Informática** pela **OFICINA — Escola Profissional** (2025 — Presente). Focado no desenvolvimento de software, websites, jogos e na evolução contínua das minhas competências técnicas e profissionais através de projetos práticos.
+Estudante do Curso **Técnico de Programador de Informática** pela **OFICINA — Escola Profissional**. Focado no desenvolvimento de software, websites, jogos e na evolução contínua das minhas competências técnicas.
 
 - 📍 **Localização:** Trofa, São Romão — Portugal 🇵🇹
 - ✉️ **Contacto:** a14891@oficina.pt
-- 🌐 **Línguas:** Português (Nativo) | Inglês (Intermédio) | Francês (Básico)
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <!-- Linguagens & Frameworks -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
-  <br /><br />
+  <br />
 
-  <!-- Ferramentas & Bases de Dados -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
-
-> **Outras competências:** Flowgorithm | Scratch | PhpAdmin | Reparação de Sistemas
-
----
-
-### 🚀 Projetos Desenvolvidos
-
-* 👟 **Website — Venda de Sapatilhas**  
-  *Plataforma online dedicada ao comércio de calçado.*
-* 🤟 **Projeto Tremu — Inclusão Social**  
-  *Sistema inteligente de reconhecimento de letras por linguagem gestual.*
-* 📋 **Sistema IPO**  
-  *Aplicação estruturada para gestão e registo de fluxos.*
-* ☀️ **A Velocidade do Sol**  
-  *Montagem, calibração e testes de aerodinâmica num carrinho solar.*
-
----
-
-### 📚 Formação Complementar
-
-* 🐧 **Formação Ubuntu** — Sistemas Linux e comandos de terminal.
-* 🗣️ **Formação de Modelo e Comunicação** — Técnicas de oratória e expressão pública.
-
----
-
-### 🧠 Competências Pessoais & Interesses
-
-* 👥 **Soft Skills:** Trabalho em equipa | Criatividade | Comunicação | Proatividade | Pensamento crítico | Liderança
-* 🎯 **Interesses:** 🥋 Artes marciais | 🏋️ Ginásio | 📚 Leitura | 💻 Programação
+  <!-- Frameworks & Ferramentas -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=6
