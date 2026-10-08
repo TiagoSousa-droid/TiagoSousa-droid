@@ -15,40 +15,79 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <!-- Header com Animação de Digitação -->
-# 👨‍💻 Tiago Rufino de Sousa
+<!-- Header com Animação de Digitação -->
+<div align="center">
+  <img src="https://demolab.com..." alt="Typing SVG" />
+</div>
 
-> **Estudante do Curso Técnico de Programador de Informática**  
-> 🏫 *OFICINA — Escola Profissional* (2025 — Presente)
+<br />
 
-Focado no desenvolvimento de software, websites e jogos. Gosto de aprender novas tecnologias e aplicar os conhecimentos em projetos práticos, procurando evoluir continuamente as minhas competências técnicas e profissionais.
+<!-- Estatísticas Dinâmicas (Estilo Tech/Cyberpunk) -->
+<div align="center">
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  </a>
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Competências Técnicas
+### 👨‍💻 Sobre Mim
 
-* 💻 **Linguagens & Frameworks:** `JavaScript` | `C/C++` | `C#` | `.NET` | `React` | `Node.js` | `HTML`
-* 🔧 **Ferramentas & Ambientes:** `Visual Studio Code` | `WordPress` | `Flowgorithm` | `Scratch`
-* 🗄️ **Bases de Dados & Sistemas:** `MySQL Workbench` | `PostgreSQL` | `PhpAdmin` | `Ubuntu`
-* 🔌 **Hardware & Outros:** `Arduino` | `Git / GitHub` | `Reparação de Sistemas`
+Estudante do Curso **Técnico de Programador de Informática** pela **OFICINA — Escola Profissional** (2025 — Presente). Focado no desenvolvimento de software, websites, jogos e na evolução contínua das minhas competências técnicas e profissionais através de projetos práticos.
+
+- 📍 **Localização:** Trofa, São Romão — Portugal 🇵🇹
+- ✉️ **Contacto:** a14891@oficina.pt
+- 🌐 **Línguas:** Português (Nativo) | Inglês (Intermédio) | Francês (Básico)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="left">
+  <!-- Linguagens & Frameworks -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <br /><br />
+
+  <!-- Ferramentas & Bases de Dados -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+
+> **Outras competências:** Flowgorithm | Scratch | PhpAdmin | Reparação de Sistemas
 
 ---
 
 ### 🚀 Projetos Desenvolvidos
 
 * 👟 **Website — Venda de Sapatilhas**  
-  *Desenvolvimento de uma plataforma online para comércio de calçado.*
+  *Plataforma online dedicada ao comércio de calçado.*
 * 🤟 **Projeto Tremu — Inclusão Social**  
-  *Criação de um sistema de reconhecimento de letras por linguagem gestual.*
+  *Sistema inteligente de reconhecimento de letras por linguagem gestual.*
 * 📋 **Sistema IPO**  
-  *Desenvolvimento de uma aplicação estruturada para gestão/registos de fluxos.*
+  *Aplicação estruturada para gestão e registo de fluxos.*
 * ☀️ **A Velocidade do Sol**  
-  *Projeto focado na montagem e calibração de um carrinho solar.*
+  *Montagem, calibração e testes de aerodinâmica num carrinho solar.*
 
 ---
 
 ### 📚 Formação Complementar
-* 🐧 **Formação Ubuntu** — Imersão em sistemas Linux e administração de terminais.
-* 🗣️ **Formação de Modelo e Comunicação** — Desenvolvimento de técnicas de expressão e oratória.
+
+* 🐧 **Formação Ubuntu** — Sistemas Linux e comandos de terminal.
+* 🗣️ **Formação de Modelo e Comunicação** — Técnicas de oratória e expressão pública.
 
 ---
 
@@ -56,11 +95,3 @@ Focado no desenvolvimento de software, websites e jogos. Gosto de aprender novas
 
 * 👥 **Soft Skills:** Trabalho em equipa | Criatividade | Comunicação | Proatividade | Pensamento crítico | Liderança
 * 🎯 **Interesses:** 🥋 Artes marciais | 🏋️ Ginásio | 📚 Leitura | 💻 Programação
-
----
-
-### 📬 Contactos & Localização
-
-* 📧 **Email:** a14891@oficina.pt
-* 📍 **Localização:** Trofa, São Romão — Portugal 🇵🇹
-* 🌐 **Línguas:** 🇵🇹 Português (*Nativo*) | 🇬🇧 Inglês (*Intermédio*) | 🇫🇷 Francês (*Básico*)
