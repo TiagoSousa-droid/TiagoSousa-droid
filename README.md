@@ -18,108 +18,138 @@ Here are some ideas to get you started:
 <!-- Header com Animação de Digitação -->
 <!-- Header com Animação de Digitação -->
 
+ <!-- ═══════════════════════════════════════════════ -->
+
+<!--                 HEADER                         -->
+
+<!-- ═══════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="assets/hacker-profile.svg" width="100%" alt="Tiago Sousa Hacker Tech">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:003b2b,100:00ff88&text=TIAGO%20SOUSA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00FF66&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+GITHUB;PROGRAMMING+%7C+GAMING+%7C+TECH;ACCESS+GRANTED+%E2%96%88" alt="Terminal animado">
+<a href="https://github.com/TiagoSousa-droid">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00FF88&center=true&vCenter=true&width=650&lines=TiagoSousa-droid;Java+%7C+JavaScript+%7C+React;Building+projects%2C+learning+every+day;Learn.+Build.+Improve." alt="Animação de texto" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TiagoSousa--droid-020805?style=for-the-badge&logo=github&logoColor=00ff66)](https://github.com/TiagoSousa-droid)
-[![Snake Game](https://img.shields.io/badge/PLAY-SNAKE_GAME-00ff66?style=for-the-badge&logo=gamepad&logoColor=black)](snake/)
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00ff88?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-00d9ff?style=for-the-badge&labelColor=080808" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-TiagoSousa--droid-111111?style=for-the-badge\&logo=github\&logoColor=00ff88)](https://github.com/TiagoSousa-droid)
+[![Repositories](https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-111111?style=for-the-badge\&logo=git\&logoColor=00ff88)](https://github.com/TiagoSousa-droid?tab=repositories)
 
 </div>
 
 ---
 
-## `root@tiago:~$ whoami`
+## ⚡ `STACK.tecnologica`
 
-```bash
-╔══════════════════════════════════════════╗
-║          USER IDENTIFICATION             ║
-╠══════════════════════════════════════════╣
-║ USER:     TiagoSousa-droid               ║
-║ STATUS:   ONLINE                         ║
-║ OS:       Developer Mode                 ║
-║ MISSION:  Learn. Build. Improve.          ║
-╚══════════════════════════════════════════╝
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,git,github&theme=dark" />
+
+<br/><br/>
+
+![Java](https://img.shields.io/badge/Java-00ff88?style=flat-square\&logo=openjdk\&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff88?style=flat-square\&logo=javascript\&logoColor=000000)
+![React](https://img.shields.io/badge/React-00ff88?style=flat-square\&logo=react\&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=flat-square\&logo=nodedotjs\&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-00ff88?style=flat-square\&logo=html5\&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-00ff88?style=flat-square\&logo=css3\&logoColor=000000)
+
+</div>
+
+---
+
+## 📡 `TELEMETRIA.github`
+
+<div align="center">
+
+<a href="https://github.com/TiagoSousa-droid">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoSousa-droid&show_icons=true&hide_border=true&bg_color=080d12&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub" />
+</a>
+
+<a href="https://github.com/TiagoSousa-droid">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSousa-droid&layout=compact&hide_border=true&bg_color=080d12&title_color=00ff88&text_color=c9d1d9" alt="Linguagens mais utilizadas" />
+</a>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoSousa-droid&bg_color=080d12&color=00ff88&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade GitHub" />
+
+</div>
+
+---
+
+## 🧪 `PROJETOS.destaque`
+
+### `01` — CARANIMALINHO
+
+> Uma aplicação criativa que relaciona expressões faciais com animais gerados por inteligência artificial.
+
+* **Objetivo:** transformar uma fotografia numa experiência divertida.
+* **Tecnologias:** React, JavaScript, Node.js e integração com IA.
+* **Foco:** interface, câmara e geração de imagens.
+
+### `02` — TREMU NA OFICINA
+
+> Um jogo educativo focado no reconhecimento de gestos e na interação através da câmara.
+
+* **Objetivo:** explorar uma forma interativa de aprendizagem.
+* **Tecnologias:** JavaScript, React e ferramentas de reconhecimento de poses.
+* **Foco:** acessibilidade, interação e experiência de utilização.
+
+<div align="center">
+
+[![Ver os meus repositórios](https://img.shields.io/badge/VER%20TODOS%20OS%20PROJETOS-00ff88?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/TiagoSousa-droid?tab=repositories)
+
+</div>
+
+---
+
+## 🖥️ `SOBRE_MIM.exe`
+
+```text
+┌────────────────────────────────────────────┐
+│              USER PROFILE                  │
+├────────────────────────────────────────────┤
+│ USER:       TiagoSousa-droid               │
+│ ROLE:       Estudante de programação       │
+│ INTERESTS:  Software, Web, Jogos e IA      │
+│ LANGUAGES:  Java, JavaScript               │
+│ MINDSET:    Learn. Build. Improve.         │
+└────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF66&width=700&lines=%24+initializing+developer+profile...;%24+loading+projects...;%24+compiling+new+ideas...;%24+ready_to_code%3B" alt="Animação de terminal">
+Gosto de desenvolver projetos, experimentar novas tecnologias e melhorar as minhas competências através da prática. O meu objetivo é transformar ideias em aplicações funcionais e continuar a evoluir como programador.
 
-## `root@tiago:~$ tech --list`
+---
 
-<div align="center">
+## 🎯 `ROADMAP.2026`
 
-![Java](https://img.shields.io/badge/JAVA-020805?style=for-the-badge&logo=openjdk&logoColor=00ff66)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-020805?style=for-the-badge&logo=javascript&logoColor=00ff66)
-![React](https://img.shields.io/badge/REACT-020805?style=for-the-badge&logo=react&logoColor=00ff66)
-![Node.js](https://img.shields.io/badge/NODE.JS-020805?style=for-the-badge&logo=nodedotjs&logoColor=00ff66)
-![HTML5](https://img.shields.io/badge/HTML5-020805?style=for-the-badge&logo=html5&logoColor=00ff66)
-![CSS3](https://img.shields.io/badge/CSS3-020805?style=for-the-badge&logo=css3&logoColor=00ff66)
+* [x] Desenvolver projetos com Java e JavaScript.
+* [x] Explorar interfaces web e desenvolvimento de aplicações.
+* [x] Trabalhar em projetos educativos e criativos.
+* [ ] Aprofundar React e Node.js.
+* [ ] Desenvolver aplicações full stack mais completas.
+* [ ] Melhorar os testes, a organização e a documentação do código.
+* [ ] Publicar mais projetos e continuar a aprender.
 
-</div>
-
-## `root@tiago:~$ ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 CARANIMALINHO
-
-Aplicação criativa que transforma uma selfie num animal com uma expressão semelhante.
-
-**Tecnologias:** React · JavaScript · Node.js
-
-[Explorar projetos](https://github.com/TiagoSousa-droid?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 TREMU NA OFICINA
-
-Conceito de jogo com palavras e reconhecimento de gestos através da câmara.
-
-**Tecnologias:** JavaScript · React · TensorFlow.js
-
-[Explorar projetos](https://github.com/TiagoSousa-droid?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-## `root@tiago:~$ github --stats`
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TiagoSousa-droid&show_icons=true&hide_border=true&bg_color=020805&title_color=00ff66&text_color=d8ffe5&icon_color=00ff9d" alt="GitHub statistics">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=00FF88&center=true&vCenter=true&width=500&lines=%24+git+commit+-m+%22keep+improving%22;System+online...;More+projects+loading..." alt="Terminal animado" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSousa-droid&layout=compact&hide_border=true&bg_color=020805&title_color=00ff66&text_color=d8ffe5" alt="Most used languages">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoSousa-droid&theme=dark&background=020805&ring=00ff66&fire=00ffc8&currStreakLabel=00ff66&hide_border=true" alt="GitHub contribution streak">
+**`[ LEARN ]  [ BUILD ]  [ IMPROVE ]`**
 
-</div>
-
-## `root@tiago:~$ execute snake.exe`
-
-<div align="center">
-
-[![PLAY SNAKE](https://img.shields.io/badge/▶_PLAY_SNAKE-00ff66?style=for-the-badge&logoColor=black)](snake/)
-
-*Enter the terminal. Beat your high score.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003b2b,100:050505&height=100&section=footer" />
 
 </div>
 
-## `root@tiago:~$ system_status`
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge)
-![Mode](https://img.shields.io/badge/MODE-CREATIVE-00ffc8?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-CODING-00aaff?style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:003b20,100:020805&height=120&section=footer&animation=twinkling" width="100%" alt="Rodapé animado">
-
-**`ACCESS GRANTED // KEEP BUILDING.`**
-
-</div>
