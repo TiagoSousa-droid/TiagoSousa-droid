@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="t d">
+<title id="t">System console — TiagoSousa-droid</title><desc id="d">Console animada com cursor, linhas de dados, equalizador e um painel de utilizador futurista.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09140c"/><stop offset="1" stop-color="#030705"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="2" width="1196" height="326" rx="9" fill="url(#panel)" stroke="#00ff66" stroke-width="1.5"/>
+<rect x="3" y="3" width="1194" height="36" rx="8" fill="#102016"/><path d="M3 39H1197" stroke="#00ff66" stroke-opacity=".6"/>
+<circle cx="24" cy="21" r="5" fill="#ff5f57"/><circle cx="42" cy="21" r="5" fill="#febc2e"/><circle cx="60" cy="21" r="5" fill="#28c840"/>
+<text x="82" y="26" font-family="monospace" font-size="14" fill="#a6ffb9">SYSTEM CONSOLE // PROFILE_KERNEL</text>
+<text x="34" y="77" font-family="monospace" font-size="19" fill="#00ff66" filter="url(#glow)">$ whoami</text>
+<text x="34" y="105" font-family="monospace" font-size="17" fill="#d7ffe0">TiagoSousa-droid</text>
+<text x="34" y="143" font-family="monospace" font-size="19" fill="#00ff66">$ system --check</text>
+<text x="34" y="171" font-family="monospace" font-size="17" fill="#d7ffe0">[ OK ] PROFILE LOADED</text>
+<text x="34" y="209" font-family="monospace" font-size="19" fill="#00ff66">$ tech --scan</text>
+<text x="34" y="237" font-family="monospace" font-size="17" fill="#d7ffe0">JAVA · JAVASCRIPT · REACT · NODE.JS</text>
+<text x="34" y="282" font-family="monospace" font-size="18" fill="#00ff66">$</text>
+<rect x="54" y="265" width="10" height="22" fill="#00ff66"><animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></rect>
+<rect x="748" y="57" width="418" height="238" rx="5" fill="#040a06" stroke="#235a31"/>
+<text x="775" y="88" font-family="monospace" font-size="16" font-weight="bold" fill="#00ff66">USER_DATA // 0x01</text><path d="M775 101H1139" stroke="#235a31"/>
+<text x="775" y="131" font-family="monospace" font-size="14" fill="#679775">IDENTITY</text><text x="890" y="131" font-family="monospace" font-size="14" fill="#d7ffe0">TiagoSousa-droid</text>
+<text x="775" y="164" font-family="monospace" font-size="14" fill="#679775">STATUS</text><text x="890" y="164" font-family="monospace" font-size="14" fill="#d7ffe0">Developer in progress</text>
+<text x="775" y="197" font-family="monospace" font-size="14" fill="#679775">MISSION</text><text x="890" y="197" font-family="monospace" font-size="14" fill="#d7ffe0">Learn / Build / Improve</text>
+<path d="M775 216H1139" stroke="#235a31"/>
+<text x="775" y="241" font-family="monospace" font-size="12" fill="#00ff66">DATA STREAM</text>
+<g transform="translate(775 254)" fill="#00ff66">
+ <rect x="0" y="13" width="5" height="10"><animate attributeName="height" values="10;24;6;10" dur=".65s" repeatCount="indefinite"/><animate attributeName="y" values="13;-1;17;13" dur=".65s" repeatCount="indefinite"/></rect>
+ <rect x="12" y="7" width="5" height="16"><animate attributeName="height" values="16;7;22;16" dur=".8s" repeatCount="indefinite"/><animate attributeName="y" values="7;16;1;7" dur=".8s" repeatCount="indefinite"/></rect>
+ <rect x="24" y="2" width="5" height="21"><animate attributeName="height" values="21;12;7;21" dur=".7s" repeatCount="indefinite"/><animate attributeName="y" values="2;11;16;2" dur=".7s" repeatCount="indefinite"/></rect>
+ <rect x="36" y="10" width="5" height="13"><animate attributeName="height" values="13;22;9;13" dur=".9s" repeatCount="indefinite"/><animate attributeName="y" values="10;1;14;10" dur=".9s" repeatCount="indefinite"/></rect>
+ <rect x="48" y="5" width="5" height="18"><animate attributeName="height" values="18;9;21;18" dur=".75s" repeatCount="indefinite"/><animate attributeName="y" values="5;14;2;5" dur=".75s" repeatCount="indefinite"/></rect>
+</g>
+<circle cx="1130" cy="270" r="5" fill="#00ff66" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="1200" height="330" fill="#00ff66" opacity=".02"><animate attributeName="opacity" values=".01;.04;.01" dur="2.3s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Rodapé futurista animado">
+<rect width="1200" height="100" fill="#050907"/>
+<path d="M0 8H1200M0 92H1200" stroke="#00ff66" stroke-opacity=".6"/>
+<g fill="#00ff66" font-family="monospace" font-size="12" opacity=".7"><text x="28" y="35">SYS.END // 0x00</text><text x="1020" y="35">SESSION ACTIVE</text></g>
+<text x="600" y="48" text-anchor="middle" font-family="monospace" font-size="20" letter-spacing="4" fill="#baffc9">KEEP BUILDING<span><animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/></span></text>
+<g stroke="#00ff66" stroke-width="2"><path d="M330 67H870"><animate attributeName="stroke-dasharray" values="0 540;540 0;0 540" dur="4s" repeatCount="indefinite"/></path></g>
+<text x="600" y="84" text-anchor="middle" font-family="monospace" font-size="12" fill="#6e9a78">TIAGOSOUSA-DROID • END OF TRANSMISSION</text>
+</svg>

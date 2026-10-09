@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="Separador tecnológico animado">
+<rect width="1200" height="30" fill="#050907"/>
+<path d="M0 15H1200" stroke="#164b27" stroke-width="1"/>
+<path d="M0 15H220l12 -8h75l10 8H520l12 7h130l12 -7H880l10 -8h75l12 8H1200" fill="none" stroke="#00ff66" stroke-width="1.5"/>
+<rect x="-80" y="10" width="80" height="10" fill="#00ff66" opacity=".8"><animate attributeName="x" values="-80;1200" dur="3.2s" repeatCount="indefinite"/></rect>
+<circle cx="600" cy="15" r="4" fill="#baffc9"><animate attributeName="r" values="2;5;2" dur="1.3s" repeatCount="indefinite"/></circle>
+</svg>
