@@ -1,0 +1,12 @@
+INSTALAÇÃO
+
+1. Abre o repositório https://github.com/TiagoSousa-droid/TiagoSousa-droid
+2. Substitui o README.md pelo README.md incluído nesta pasta.
+3. Envia também a pasta assets com header.svg e terminal.svg.
+4. Faz commit das alterações.
+
+IMPORTANTE:
+- Os SVGs são ficheiros personalizados e incluem animações.
+- O README remove a secção da cobra.
+- Se os nomes dos repositórios CARANIMALINHO ou TREMU-NA-OFICINA forem diferentes no GitHub, atualiza os links no README.
+- Os cartões de estatísticas dependem de serviços externos.

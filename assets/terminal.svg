@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Terminal do perfil TiagoSousa-droid</title>
+<desc id="desc">Janela de terminal animada com comandos, cursor a piscar e cartão de identificação.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#090d16"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="306" rx="14" fill="url(#panel)" stroke="url(#edge)" stroke-width="2"/>
+<path d="M3 42H1197" stroke="#273247" stroke-width="2"/>
+<circle cx="28" cy="22" r="6" fill="#ff5f57"/><circle cx="49" cy="22" r="6" fill="#febc2e"/><circle cx="70" cy="22" r="6" fill="#28c840"/>
+<text x="94" y="27" font-family="monospace" font-size="14" fill="#94a3b8">tiago@github: ~/profile</text>
+<text x="38" y="80" font-family="monospace" font-size="20" font-weight="700" fill="#00f5ff">$ whoami</text>
+<text x="38" y="111" font-family="monospace" font-size="17" fill="#e2e8f0">TiagoSousa-droid</text>
+<text x="38" y="147" font-family="monospace" font-size="20" font-weight="700" fill="#00f5ff">$ profile --status</text>
+<text x="38" y="178" font-family="monospace" font-size="17" fill="#c9d1d9">STATUS: LEARNING • BUILDING • IMPROVING</text>
+<text x="38" y="214" font-family="monospace" font-size="20" font-weight="700" fill="#00f5ff">$ tech --list</text>
+<text x="38" y="245" font-family="monospace" font-size="17" fill="#c9d1d9">Java · JavaScript · React · Node.js · HTML · CSS</text>
+<text x="38" y="280" font-family="monospace" font-size="17" fill="#00ff9c">$</text>
+<rect x="58" y="264" width="10" height="20" fill="#00ff9c">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<rect x="735" y="66" width="420" height="190" rx="10" fill="#0b1220" stroke="#25344a" stroke-width="1.5"/>
+<rect x="735" y="66" width="420" height="4" rx="2" fill="url(#edge)"/>
+<text x="765" y="103" font-family="monospace" font-size="17" font-weight="700" fill="#ff00c8">USER IDENTIFICATION</text>
+<path d="M765 116H1125" stroke="#334155"/>
+<text x="765" y="148" font-family="monospace" font-size="15" fill="#94a3b8">USER</text>
+<text x="875" y="148" font-family="monospace" font-size="15" fill="#e2e8f0">TiagoSousa-droid</text>
+<text x="765" y="178" font-family="monospace" font-size="15" fill="#94a3b8">MODE</text>
+<text x="875" y="178" font-family="monospace" font-size="15" fill="#e2e8f0">Developer in progress</text>
+<text x="765" y="208" font-family="monospace" font-size="15" fill="#94a3b8">MISSION</text>
+<text x="875" y="208" font-family="monospace" font-size="15" fill="#e2e8f0">Learn. Build. Improve.</text>
+<circle cx="1120" cy="237" r="5" fill="#00ff9c" filter="url(#soft)"/>
+<circle cx="1120" cy="237" r="3" fill="#00ff9c">
+  <animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+<text x="765" y="242" font-family="monospace" font-size="12" fill="#64748b">CONNECTION ESTABLISHED</text>
+</svg>

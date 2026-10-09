@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Tiago Sousa — Developer in progress</title>
+<desc id="desc">Banner animado com estética cyberpunk, grelha, linhas neon e efeito glitch.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080b16"/><stop offset=".55" stop-color="#10102a"/><stop offset="1" stop-color="#071b27"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f5ff"/><stop offset=".52" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#00f5ff" stroke-opacity=".13" stroke-width="1"/>
+  </pattern>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="clip"><rect width="1200" height="280" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <g stroke="#00f5ff" stroke-width="2" opacity=".75">
+    <path d="M-80 205 L340 -10 M40 300 L590 -10 M730 300 L1190 40" opacity=".35"/>
+    <path d="M0 34H1200 M0 245H1200" stroke="url(#neon)" opacity=".65"/>
+  </g>
+  <g fill="none" stroke="#7b2ff7" stroke-width="2" opacity=".8">
+    <path d="M48 58h150l18 18v34H48z"/><path d="M1030 44h112v34h-112z"/>
+    <path d="M1010 218h142l-20 20h-122z"/>
+  </g>
+  <g fill="#00f5ff" opacity=".8">
+    <circle cx="78" cy="88" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1115" cy="60" r="3"><animate attributeName="opacity" values="1;.1;1" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="232" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g font-family="monospace" font-size="13" fill="#00f5ff" opacity=".7">
+    <text x="62" y="142">SYS.INIT // 0xTIAGO</text>
+    <text x="950" y="105">BUILD: 2026</text>
+    <text x="950" y="124">STATUS: ONLINE</text>
+  </g>
+  <text x="600" y="124" text-anchor="middle" font-family="monospace" font-size="50" font-weight="700" fill="#00f5ff" filter="url(#glow)">TIAGO SOUSA</text>
+  <text x="603" y="124" text-anchor="middle" font-family="monospace" font-size="50" font-weight="700" fill="#ff00c8" opacity=".45">
+    TIAGO SOUSA
+    <animate attributeName="dx" values="-3;3;-2;0" dur="2.8s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="163" text-anchor="middle" font-family="monospace" font-size="18" letter-spacing="4" fill="#f1f5f9">DEVELOPER IN PROGRESS</text>
+  <rect x="350" y="187" width="500" height="3" rx="1.5" fill="url(#neon)">
+    <animate attributeName="width" values="80;500;420;500" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="560;350;390;350" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="222" text-anchor="middle" font-family="monospace" font-size="15" fill="#c9d1d9">JAVA  /  JAVASCRIPT  /  REACT  /  NODE.JS</text>
+  <rect x="0" y="0" width="1200" height="280" fill="none" stroke="url(#neon)" stroke-width="3"/>
+  <rect x="0" y="-30" width="1200" height="14" fill="#00f5ff" opacity=".08">
+    <animate attributeName="y" values="-30;300;-30" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>
